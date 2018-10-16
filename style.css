@@ -21,3 +21,12 @@ body {
 	color:#777;
 	font-weight: 300;
 }
+
+/*****************
+Image styling
+******************/
+
+img{
+	border-radius: 100%;
+	max-width: 340px;
+}
