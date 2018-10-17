@@ -37,6 +37,7 @@ h1 {
 	font-size: 1.5em;
 	line-height: .5em;
 	color: #564581;
+	padding: 1em 1em 1em 0;
 }
 
 h2{
@@ -48,6 +49,12 @@ h2{
 
 h3{
 	font-size: .875em;
+	line-height: 1em;
+	font-weight: normal;
+}
+
+h4{
+	font-size: 0.7em;
 	line-height: 1em;
 	font-weight: normal;
 }
