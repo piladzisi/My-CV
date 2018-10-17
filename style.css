@@ -3,7 +3,7 @@ Top bar color
 ***************/
 
 html{
-	border-top 20px solid #8A85A5;
+	border-top: 20px solid #8A85A5;
 }
 
 
@@ -27,6 +27,27 @@ Image styling
 ******************/
 
 img{
-	border-radius: 100%;
+	border-radius: 20%;
 	max-width: 340px;
+}
+/**************
+Headline styling
+***********/
+h1 {
+	font-size: 1.5em;
+	line-height: .5em;
+	color: #564581;
+}
+
+h2{
+	font-size: 1em;
+	line-height: 1em;
+	font-style: oblique;
+	color: #aaa;
+}
+
+h3{
+	font-size: .875em;
+	line-height: 1em;
+	font-weight: normal;
 }
