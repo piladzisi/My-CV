@@ -17,7 +17,7 @@ body {
 	padding: 20px 20px;
 	font-size: 1.3em;
 	line-height: 1.6em;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Domine', serif;
 	color:#777;
 	font-weight: 300;
 }
@@ -43,7 +43,7 @@ h1 {
 h2{
 	font-size: 1em;
 	line-height: 1em;
-	font-style: oblique;
+	/*font-style: oblique;*/
 	color: #aaa;
 }
 
@@ -57,4 +57,8 @@ h4{
 	font-size: 0.7em;
 	line-height: 1em;
 	font-weight: normal;
+}
+
+p{
+	font-size: 0.85em;
 }
