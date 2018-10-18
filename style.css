@@ -3,7 +3,8 @@ Top bar color
 ***************/
 
 html{
-	border-top: 20px solid #8A85A5;
+	border-top: 60px solid #5D5C61;
+	background:#7395AE;
 }
 
 
@@ -18,7 +19,7 @@ body {
 	font-size: 1.3em;
 	line-height: 1.6em;
 	font-family: 'Domine', serif;
-	color:#777;
+	color:white;
 	font-weight: 300;
 }
 
@@ -36,7 +37,7 @@ Headline styling
 h1 {
 	font-size: 1.5em;
 	line-height: .5em;
-	color: #564581;
+	color: #5D5C61;
 	padding: 1em 1em 1em 0;
 }
 
@@ -61,4 +62,7 @@ h4{
 
 p{
 	font-size: 0.85em;
+}
+blockquote{
+	color: #B1A296;
 }
