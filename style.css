@@ -44,8 +44,7 @@ h1 {
 h2{
 	font-size: 1em;
 	line-height: 1em;
-	/*font-style: oblique;*/
-	color: #aaa;
+	color: #B1A296;
 }
 
 h3{
@@ -60,9 +59,41 @@ h4{
 	font-weight: normal;
 }
 
+/**************
+Main Page Styling
+***********/
+
 p{
 	font-size: 0.85em;
 }
 blockquote{
 	color: #B1A296;
+}
+footer{
+	background:#557A95;
+}
+#email{
+	text-decoration: none;
+	color:white;
+}
+#email:hover{
+	text-decoration: underline;
+}
+
+/**************
+Buttons
+***********/
+button{
+	background:#557A95;
+	padding: 1em 1em;
+	border-radius: 0.2em;
+	border:0;
+}
+button a{
+	color:white;
+	text-decoration: none;
+	font-size: 2em;
+}
+button a:hover{
+	background: #3d5a6d;
 }
